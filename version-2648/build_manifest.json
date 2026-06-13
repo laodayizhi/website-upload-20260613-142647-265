@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-06-02",
+  "source_data_file": "data_2000.txt",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "category_counts": {
+    "华语精选": 200,
+    "热门电影": 200,
+    "连续剧集": 200,
+    "动作冒险": 200,
+    "爱情剧情": 201,
+    "悬疑惊悚": 200,
+    "科幻奇幻": 198,
+    "喜剧治愈": 200,
+    "纪录传记": 200,
+    "年度新片": 201
+  },
+  "html_pages": 2014,
+  "note": "Static movie website generated from uploaded text data. Baidu analytics script is inserted in every HTML page."
+}
